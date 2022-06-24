@@ -1,9 +1,9 @@
 h1, h2, h3, h4, h5 {
-	color: #1e422d;
+	color: #43aabf;
 }
 
 h1 {
-	border-bottom: 1px solid #1e422d;
+	border-bottom: 1px solid #43aabf;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
 }
@@ -15,7 +15,7 @@ h4 {
 }
 
 a {
-	color: #1e422d;
+	color: #43aabf;
 	text-decoration: underline;
 
 }
@@ -51,7 +51,7 @@ header {
 		max-width: 100%;
 	}
 	header a {
-		color: #1e422d;
+		color: #43aabf;
 		text-decoration: none;
 	}
 	header a:hover {
@@ -67,7 +67,7 @@ nav {
 	}
 
 .bg-fowlersmenu {
-	background: #1e422d;
+	background: #43aabf;
 }
 .nav-fowlersmenu {
 	padding-top: 0px;
@@ -86,7 +86,7 @@ nav {
 }
 
 .bg-fowlers {
-	background: #1e422d;
+	background: #43aabf;
 }
 .list-group-item-action {
 	text-decoration: none;
@@ -94,7 +94,7 @@ nav {
 
 footer {
 	margin-top: 20px;
-	background: #1e422d;
+	background: #43aabf;
 	color: #ffffff;
 	padding: 15px;
 }
